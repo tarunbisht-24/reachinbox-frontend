@@ -1,20 +1,23 @@
-<h1>ReachInbox.io</h1>
-<h5>Presenting the clone</h5>
-1.) CRUD Operations
-<br />
-2.) Api Provided all are used
-<br />
-3.) Responsive 
-<br />
-<br />
-<h1>Login</h1>
-<p>A reponsive Login page</p>
+## Reachinbox
+
+## Deployed Link :
+https://reachinbox-seven.vercel.app/
+
+## Tech Stack used:
+* React.js
+* Redux.js
+* Tailwind.css
+
+## features :
+* User can log in using Google account
+* Switch theme to light or dark
+* Add variables in the reply
+* CRUD Operation on the thread
+* Dynamically display thread data along with sending time and date
 
 ![Screenshot (34)](https://github.com/user-attachments/assets/4fa610e9-36e7-49f4-ae17-7afd50478344)
 
 ![image](https://github.com/user-attachments/assets/aaf29635-d392-4936-898c-fe7d8a1b723c)
-
-
 
 
 <br></br>
@@ -51,9 +54,13 @@
 ![Screenshot (31)](https://github.com/user-attachments/assets/5dfa503c-99a8-42f0-8766-ab96b46c251c)
 
 
-<h1>Feedback I'm Open too</h1>
-<p>Tech Used:</p>
-<p>React js + Vite + Tailwind css + Redux  + Axios + Vercel + React Router Dom + React Icons + Figma</p>
+## Project Setup
 
-<p><span>IMP:</span>I can not Post video write now because but this is the project also the Apis are giving me Internal serve error (500) since 8:10 pm or 8:15pm 11 august 2024</p>
-<h2>ThankFull for work you provided, I think I tried Enough for doing the good job</h2>
+* git clone https://github.com/GaneshGourav/reachinbox-frontend-assignment.git
+* npm i
+* npm start
+
+## Feedback :
+Any feedback regarding improvement are welcome!
+
+### Thank you !
