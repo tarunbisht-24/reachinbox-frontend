@@ -1,7 +1,7 @@
 ## Reachinbox
 
 ## Deployed Link :
-https://reachinbox-seven.vercel.app/
+https://reachinbox-gray.vercel.app/
 
 ## Tech Stack used:
 * React.js
@@ -9,7 +9,7 @@ https://reachinbox-seven.vercel.app/
 * Tailwind.css
 
 ## features :
-* User can log in using Google account
+* User can log in using a Google account
 * Switch theme to light or dark
 * Add variables in the reply
 * CRUD Operation on the thread
@@ -56,11 +56,11 @@ https://reachinbox-seven.vercel.app/
 
 ## Project Setup
 
-* git clone https://github.com/GaneshGourav/reachinbox-frontend-assignment.git
+* git clone https://github.com/tarunbisht-24/reachinbox-frontend-assignment.git
 * npm i
 * npm start
 
 ## Feedback :
-Any feedback regarding improvement are welcome!
+Any feedback regarding improvement is welcome!
 
-### Thank you !
+### Thank you!
